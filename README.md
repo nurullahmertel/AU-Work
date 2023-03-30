@@ -1,2 +1,2 @@
 # AU-Work
-Ankara Üniversitesi lisans eğitimimde yaptığım proje ve çalışmalar
+Lisans eğitimimde yaptığım proje ve çalışmalar
